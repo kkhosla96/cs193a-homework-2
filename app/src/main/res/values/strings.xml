@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssignmentTwo</string>
+    <string-array name="temp">
+        <item>Pikachu</item>
+        <item>Charizard</item>
+        <item>Blastoise</item>
+        <item>Venusaur</item>
+    </string-array>
+</resources>
